@@ -25,7 +25,7 @@ black = (10,10,10)
 green = (50,200,50)
 red = (200,50,50)
 
-#Definition des variables
+#Definition des variables 
 
 c = -0.85,0.2
 step = 10
